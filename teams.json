@@ -50,4 +50,24 @@
   { "name": "TYLOO", "short": "TYL", "region": "China", "flag": "🇨🇳", "logo": "/logos/tyloo.png" },
   { "name": "Wolves Esports", "short": "WOL", "region": "China", "flag": "🇨🇳", "logo": "/logos/wolves.png" },
   { "name": "XLG Esports", "short": "XLG", "region": "China", "flag": "🇨🇳", "logo": "/logos/xlg.png" }
+,
+{ "name": "YFP Gaming", "short": "YFP", "region": "Americas", "flag": "🇺🇸", "logo": "/logos/yfp.png" },
+{ "name": "Shopify Rebellion", "short": "SR", "region": "Americas", "flag": "🇺🇸", "logo": "/logos/shopify.png" },
+{ "name": "9z Team", "short": "9Z", "region": "Americas", "flag": "🇦🇷", "logo": "/logos/9z.png" },
+{ "name": "2GAME Academy", "short": "2GA", "region": "Americas", "flag": "🇧🇷", "logo": "/logos/2game.png" },
+
+{ "name": "Enterprise Esports", "short": "EP", "region": "EMEA", "flag": "🇨🇿", "logo": "/logos/enterprise.png" },
+{ "name": "Joblife", "short": "JL", "region": "EMEA", "flag": "🇫🇷", "logo": "/logos/joblife.png" },
+{ "name": "Reborn Esports", "short": "REB", "region": "EMEA", "flag": "🇹🇷", "logo": "/logos/reborn.png" },
+{ "name": "Eintracht Frankfurt", "short": "SGE", "region": "EMEA", "flag": "🇩🇪", "logo": "/logos/eintracht.png" },
+
+{ "name": "Sharper Esports", "short": "SPE", "region": "Pacific", "flag": "🇭🇰", "logo": "/logos/sharper.png" },
+{ "name": "BOOM Esports", "short": "BOOM", "region": "Pacific", "flag": "🇮🇩", "logo": "/logos/boom.png" },
+{ "name": "Sin Prisa Gaming", "short": "SPG", "region": "Pacific", "flag": "🇰🇷", "logo": "/logos/spg.png" },
+{ "name": "REJECT", "short": "RC", "region": "Pacific", "flag": "🇯🇵", "logo": "/logos/reject.png" },
+
+{ "name": "Xi Lai Gaming Academy", "short": "XLA", "region": "China", "flag": "🇨🇳", "logo": "/logos/xla.png" },
+{ "name": "Rare Atom", "short": "RA", "region": "China", "flag": "🇨🇳", "logo": "/logos/ra.png" },
+{ "name": "TYLOO Academy", "short": "TYLA", "region": "China", "flag": "🇨🇳", "logo": "/logos/tylooacademy.png" },
+{ "name": "KeepBest Gaming", "short": "KBG", "region": "China", "flag": "🇨🇳", "logo": "/logos/kbg.png" }
 ]
